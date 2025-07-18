@@ -26,10 +26,13 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🧩 Programming Concepts & CS Subjects
-<a title="Strong foundation in data structures and algorithms">
+
+<a href="#" title="Strong foundation in Data Structures and Algorithms">
   <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-ff6f00?style=flat" />
 </a>
-![Computer Networking](https://img.shields.io/badge/-Computer%20Networking-4479A1?style=flat&logo=wireshark&logoColor=white)
+<a href="#" title="Knowledge of Computer Networking concepts and protocols">
+  <img src="https://img.shields.io/badge/-Computer%20Networking-4479A1?style=flat&logo=wireshark&logoColor=white" />
+</a>
 
 #### 👩🏻‍💻Programming COncepts and CS Subjects 
 
