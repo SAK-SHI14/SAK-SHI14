@@ -19,30 +19,37 @@
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skillset
 
-#### 👩‍💻 Languages & CS Fundamentals
+#### 👩‍💻 Programming Languages & Fundamentals
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/-DSA-ff6f00?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8e44ad?style=flat)
 
-#### 📊 Data Science & Analysis
+#### 📊 Data Engineering & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![EDA](https://img.shields.io/badge/-Exploratory_Data_Analysis-4B8BBE?style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Big Data](https://img.shields.io/badge/-Big%20Data-142850?style=flat&logo=apache-hadoop&logoColor=white)
 
-#### 🤖 Machine Learning
+#### 🤖 Artificial Intelligence & ML
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF4081?style=flat&logo=openai&logoColor=white)
+![Responsive AI](https://img.shields.io/badge/-Responsive%20AI-00b894?style=flat)
 
-#### 🕸️ Web Scraping & Automation
+#### 🕸️ Automation & Web Scraping
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Mapping](https://img.shields.io/badge/-GIS_Mapping-brightgreen?style=flat)
 
 #### ☁️ Cloud & Dev Tools
 ![AWS](https://img.shields.io/badge/-AWS-Basic-orange?style=flat&logo=amazonaws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat&logo=cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
@@ -70,10 +77,16 @@
 
 ---
 
-### 🏅 Contributors Badge
+### 🏆 Open Source Contributions
+
+- 🛠️ Contributed to: [MehtabSingh3711/BlogApp](https://github.com/MehtabSingh3711/BlogApp)
+
+---
+
+### 🏅 Contributor Badge
 
 <p align="center">
-  <img src="https://contrib.rocks/image?repo=SAK-SHI14/SAK-SHI14" />
+  <img src="https://contrib.rocks/image?repo=SAK-SHI14/SAK-SHI14" alt="Contributors" />
 </p>
 
 ---
