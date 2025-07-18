@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/-Computer%20Networking-4479A1?style=flat&logo=wireshark&logoColor=white" />
 </a>
 
-#### 👩🏻‍💻Programming COncepts and CS Subjects 
-
-![Data Structures](https://img.shields.io/badge/-DSA-ff6f00?style=flat)
-
 #### 📊 Data Engineering & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
