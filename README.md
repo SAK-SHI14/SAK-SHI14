@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm <span style="color:#FF6EC7;">Sakshi</span> 👋</h1>
 
-<!--
-**SAK-SHI14/SAK-SHI14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F76EEC&center=true&vCenter=true&width=500&lines=CSE+Student+%40+LPU;AI+%26+Data+Engineering+Specialist;Always+Learning+%F0%9F%93%9A;Open+Source+Contributor+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+%7C+ML+%7C+Data+Pipelines" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎓 CSE undergrad at **Lovely Professional University**
+- 👩‍💻 Specialized in **AI & Data Engineering**
+- 🚀 Open Source Enthusiast & Contributor
+- 💡 Passionate about:
+  - Machine Learning 🤖
+  - Smart Data Systems 📊
+  - Automation & Deep Learning 🧬
+- 📚 Always learning, always building
+
+---
+
+### 🛠️ Technical Skills
+
+#### 👩‍💻 Languages & CS Fundamentals
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/-DSA-ff6f00?style=flat)
+
+#### 📊 Data Science & Analysis
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![EDA](https://img.shields.io/badge/-Exploratory_Data_Analysis-4B8BBE?style=flat)
+
+#### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)
+
+#### 🕸️ Web Scraping & Automation
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
+![Mapping](https://img.shields.io/badge/-GIS_Mapping-brightgreen?style=flat)
+
+#### ☁️ Cloud & Dev Tools
+![AWS](https://img.shields.io/badge/-AWS-Basic-orange?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAK-SHI14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAK-SHI14&theme=tokyonight&hide_border=true&border_radius=15" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAK-SHI14&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-verma-841045285"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/SAK-SHI14"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+  <a href="mailto:sakshiverma0514@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏅 Contributors Badge
+
+<p align="center">
+  <img src="https://contrib.rocks/image?repo=SAK-SHI14/SAK-SHI14" />
+</p>
+
+---
+
+> ⚡ _"Code what you imagine. Learn what you don't know. Repeat."_
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAK-SHI14&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile view counter" />
+</p>
