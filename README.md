@@ -94,13 +94,6 @@
     <img src="https://img.shields.io/badge/BlogApp-Contributor-blueviolet?style=flat&logo=github" />
   </a>
 
-
-### 🏅 Contributor Badge
-
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=SAK-SHI14/SAK-SHI14" alt="Contributors" />
-</p>
-
 ---
 
 > ⚡ _"Code what you imagine. Learn what you don't know. Repeat."_
