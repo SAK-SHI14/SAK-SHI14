@@ -21,11 +21,19 @@
 
 ### 🛠️ Technical Skillset
 
-#### 👩‍💻 Programming Languages & Fundamentals
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+### 🌐 Frontend Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧩 Programming Concepts & CS Subjects
+<a title="Strong foundation in data structures and algorithms">
+  <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-ff6f00?style=flat" />
+</a>
+![Computer Networking](https://img.shields.io/badge/-Computer%20Networking-4479A1?style=flat&logo=wireshark&logoColor=white)
+
+#### 👩🏻‍💻Programming COncepts and CS Subjects 
+
 ![Data Structures](https://img.shields.io/badge/-DSA-ff6f00?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8e44ad?style=flat)
 
 #### 📊 Data Engineering & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
@@ -38,12 +46,13 @@
 ![Big Data](https://img.shields.io/badge/-Big%20Data-142850?style=flat&logo=apache-hadoop&logoColor=white)
 
 #### 🤖 Artificial Intelligence & ML
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8e44ad?style=flat)
 ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF4081?style=flat&logo=openai&logoColor=white)
 ![Responsive AI](https://img.shields.io/badge/-Responsive%20AI-00b894?style=flat)
 
 #### 🕸️ Automation & Web Scraping
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Mapping](https://img.shields.io/badge/-GIS_Mapping-brightgreen?style=flat)
 
@@ -77,11 +86,15 @@
 
 ---
 
+---
+
 ### 🏆 Open Source Contributions
 
-- 🛠️ Contributed to: [MehtabSingh3711/BlogApp](https://github.com/MehtabSingh3711/BlogApp)
+- 🛠️ Contributed to: 
+  <a href="https://github.com/MehtabSingh3711/BlogApp" title="SAK-SHI14 has contributed to BlogApp project under MehtabSingh3711's repository">
+    <img src="https://img.shields.io/badge/BlogApp-Contributor-blueviolet?style=flat&logo=github" />
+  </a>
 
----
 
 ### 🏅 Contributor Badge
 
