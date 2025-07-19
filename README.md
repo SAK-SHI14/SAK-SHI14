@@ -64,13 +64,7 @@
 
 ### 📊 Personalized Skill Visual
 
-![Skill Usage Pie](https://quickchart.io/chart?c={
-  type:'pie',
-  data:{
-    labels:['Python','Java','DBMS','Power BI','Excel','Generative AI','Cloud Computing','VS Code','Communication'],
-    datasets:[{data:[45,45,85,83,78,80,85,88,95]}]
-  }
-})
+<img src="https://quickchart.io/chart?c=%7B%0A%20%20type%3A%20%27pie%27%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20labels%3A%20%5B%27Python%27%2C%27Java%27%2C%27DBMS%27%2C%27Power%20BI%27%2C%27Excel%27%2C%27Generative%20AI%27%2C%27Cloud%20Computing%27%2C%27VS%20Code%27%2C%27Communication%27%5D%2C%0A%20%20%20%20datasets%3A%20%5B%7B%20data%3A%20%5B45%2C45%2C85%2C83%2C78%2C80%2C85%2C88%2C95%5D%20%7D%5D%0A%20%20%7D%0A%7D" alt="Skill Usage Pie Chart" />
 
 ---
 
