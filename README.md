@@ -64,19 +64,7 @@
 
 ### 📊 Personalized Skill Visual
 
-<img src="https://quickchart.io/chart?c=%7B
-  type%3A%20'pie'%2C
-  data%3A%20%7B
-    labels%3A%20%5B'Python'%2C'Java'%2C'DBMS'%2C'Power%20BI'%2C'Excel'%2C'Generative%20AI'%2C'Cloud%20Computing'%2C'VS%20Code'%2C'Communication'%5D%2C
-    datasets%3A%20%5B%7B
-      data%3A%20%5B45%2C45%2C85%2C83%2C78%2C80%2C85%2C88%2C95%5D%2C
-      backgroundColor%3A%20%5B
-        '%23f94144'%2C'%23f3722c'%2C'%23f8961e'%2C'%23f9844a'%2C
-        '%23f9c74f'%2C'%2900b894'%2C'%234593d1'%2C'%236a4c93'%2C'%23894fc1'
-      %5D
-    %7D%5D
-  %7D
-%7D" alt="Skill Usage Pie Chart" />
+![Skill Usage Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Java%22%2C%22DBMS%22%2C%22Power%20BI%22%2C%22Excel%22%2C%22Generative%20AI%22%2C%22Cloud%20Computing%22%2C%22VS%20Code%22%2C%22Communication%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B45%2C45%2C85%2C83%2C78%2C80%2C85%2C88%2C95%5D%2C%22backgroundColor%22%3A%5B%22%23f94144%22%2C%22%23f3722c%22%2C%22%23f8961e%22%2C%22%23f9844a%22%2C%22%23f9c74f%22%2C%22%2300b894%22%2C%22%234593d1%22%2C%22%236a4c93%22%2C%22%23894fc1%22%5D%7D%5D%7D%7D)
 
 ---
 
