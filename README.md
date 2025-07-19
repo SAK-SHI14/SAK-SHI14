@@ -64,28 +64,7 @@
 
 ### 📊 Personalized Skill Visual
 
-![Skill Usage Pie Chart](https://quickchart.io/chart?c=%7B
-  "type":"pie",
-  "data":{
-    "labels":["Python","Java","DBMS","Power BI","Excel","Generative AI","Cloud Computing","VS Code","Communication"],
-    "datasets":[{
-      "data":[45,45,85,83,78,80,85,88,95],
-      "backgroundColor":["#f94144","#f3722c","#f8961e","#f9844a","#f9c74f","#00b894","#4593d1","#6a4c93","#894fc1"]
-    }]
-  },
-  "options":{
-    "plugins":{
-      "datalabels":{
-        "color":"black",
-        "font":{
-          "weight":"bold",
-          "size":14
-        }
-      }
-    }
-  },
-  "plugins":["datalabels"]
-%7D)
+![Skill Usage Pie Chart](https://quickchart.io/chart?c=%7B"type"%3A"pie","data"%3A%7B"labels"%3A%5B"Python"%2C"Java"%2C"DBMS"%2C"Power%20BI"%2C"Excel"%2C"Generative%20AI"%2C"Cloud%20Computing"%2C"VS%20Code"%2C"Communication"%5D%2C"datasets"%3A%5B%7B"data"%3A%5B45%2C45%2C85%2C83%2C78%2C80%2C85%2C88%2C95%5D%2C"backgroundColor"%3A%5B"%23f94144"%2C"%23f3722c"%2C"%23f8961e"%2C"%23f9844a"%2C"%23f9c74f"%2C"%2300b894"%2C"%234593d1"%2C"%236a4c93"%2C"%23894fc1"%5D%7D%5D%7D%2C"options"%3A%7B"plugins"%3A%7B"datalabels"%3A%7B"color"%3A"black"%2C"font"%3A%7B"weight"%3A"bold"%2C"size"%3A14%7D%7D%7D%7D%2C"plugins"%3A%5B"datalabels"%5D%7D)
 
 
 ---
