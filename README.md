@@ -21,12 +21,11 @@
 
 ### 🛠️ Technical Skillset
 
-### 🌐 Frontend Development
+#### 🌐 Frontend Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🧩 Programming Concepts & CS Subjects
-
 <a href="#" title="Strong foundation in Data Structures and Algorithms">
   <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-ff6f00?style=flat" />
 </a>
@@ -63,15 +62,24 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Personalized Skill Visual
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAK-SHI14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAK-SHI14&theme=tokyonight&hide_border=true&border_radius=15" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAK-SHI14&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
+![Skill Usage Pie](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['Python','Java','DBMS','Power BI','Excel','Generative AI','Cloud Computing','VS Code','Communication'],
+    datasets:[{data:[45,45,85,83,78,80,85,88,95]}]
+  }
+})
+
+---
+
+### 🏆 Open Source Contributions
+
+- 🛠️ Contributed to:  
+  <a href="https://github.com/MehtabSingh3711/BlogApp" title="SAK-SHI14 has contributed to BlogApp project under MehtabSingh3711's repository">
+    <img src="https://img.shields.io/badge/BlogApp-Contributor-blueviolet?style=flat&logo=github" />
+  </a>
 
 ---
 
@@ -82,17 +90,6 @@
   <a href="https://github.com/SAK-SHI14"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
   <a href="mailto:sakshiverma0514@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
----
-
-### 🏆 Open Source Contributions
-
-- 🛠️ Contributed to: 
-  <a href="https://github.com/MehtabSingh3711/BlogApp" title="SAK-SHI14 has contributed to BlogApp project under MehtabSingh3711's repository">
-    <img src="https://img.shields.io/badge/BlogApp-Contributor-blueviolet?style=flat&logo=github" />
-  </a>
 
 ---
 
