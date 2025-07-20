@@ -55,10 +55,11 @@
 ![Mapping](https://img.shields.io/badge/-GIS_Mapping-brightgreen?style=flat)
 
 #### ☁️ Cloud & Dev Tools
-![AWS](https://img.shields.io/badge/-AWS-Basic-orange?style=flat&logo=amazonaws&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat&logo=cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![AWS](https://img.shields.io/badge/AWS-Basics-orange?style=flat&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=icloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
 
 ---
 
