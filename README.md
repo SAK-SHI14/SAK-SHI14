@@ -5,20 +5,26 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F76EEC&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sakshi+%F0%9F%91%8B;AI+%26+Data+Engineering+Specialist;Building+Intelligent+Data+Systems;CSE+%40+LPU+%7C+Open+Source+Contributor;Python+%7C+ML+%7C+Cloud+%7C+Big+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=F709F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%F0%9F%92%96+S+A+K+S+H+I+%F0%9F%92%96;%E2%9C%A8+V+E+R+M+A+%E2%9C%A8" alt="Sakshi Name" />
 </h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F76EEC&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineering+Specialist+%F0%9F%A4%96;Building+Intelligent+Data+Systems+%F0%9F%93%8A;CSE+%40+LPU+%7C+Open+Source+Contributor+%F0%9F%8C%9F;Python+%7C+ML+%7C+Cloud+%7C+Big+Data+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Engineering-FF6EC7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-138808?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-138808?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-00D9FF?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAK-SHI14&label=Profile%20Views&color=FF6EC7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github" />
-  <img src="https://img.shields.io/github/stars/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github" />
+  <img src="https://img.shields.io/github/followers/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github&label=Stars" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -150,68 +156,131 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="80"/>
-<h3>📜 Add Your Certification 1</h3>
-<p><strong>Provider:</strong> Institution Name</p>
-<p><strong>Year:</strong> 2024</p>
-<a href="YOUR_CERTIFICATE_LINK_1">
-  <img src="https://img.shields.io/badge/Verify-Certificate-FF6EC7?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/google-cloud.png" width="80"/>
+<h3>🎯 Generative AI Professional</h3>
+<p><strong>Oracle</strong></p>
+<p>📅 Issued: Oct 2025</p>
+<p>🆔 Credential ID: OC7532516</p>
+<p><strong>Skills:</strong> LLMs, Generative AI, RAG Chatbot Development, OCI Service</p>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5C4F8BC52ED99C0BF053E2BC6D0A1F9CEE4B6A5DB2F0A77E7EDD68E5D34C8E5B">
+  <img src="https://img.shields.io/badge/Verify-Certificate-FF6EC7?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="80"/>
-<h3>🏆 Add Your Certification 2</h3>
-<p><strong>Provider:</strong> Institution Name</p>
-<p><strong>Year:</strong> 2024</p>
-<a href="YOUR_CERTIFICATE_LINK_2">
-  <img src="https://img.shields.io/badge/Verify-Certificate-00D9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+<h3>🚀 Build Generative AI Apps with No-Code Tools</h3>
+<p><strong>Udemy</strong></p>
+<p>📅 Issued: Aug 2025</p>
+<p><strong>Skills:</strong> No-Code Development, AI App Building, Practical AI Implementation</p>
+<a href="https://www.udemy.com/certificate/UC-c9daa298-f701-498c-9371-587ab32b74a2/">
+  <img src="https://img.shields.io/badge/Verify-Certificate-00D9FF?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/medal.png" width="80"/>
-<h3>🥇 Add Your Certification 3</h3>
-<p><strong>Provider:</strong> Institution Name</p>
-<p><strong>Year:</strong> 2024</p>
-<a href="YOUR_CERTIFICATE_LINK_3">
-  <img src="https://img.shields.io/badge/Verify-Certificate-FFD700?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/chatgpt.png" width="80"/>
+<h3>💬 ChatGPT Made Easy: AI Essentials for Beginners</h3>
+<p><strong>Udemy</strong></p>
+<p>📅 Issued: Aug 2025</p>
+<p>🆔 Credential ID: UC-c9daa298-f701-498c-9371-587ab32b74a2</p>
+<p><strong>Skills:</strong> ChatGPT, Prompt Engineering, AI Tools</p>
+<a href="https://www.udemy.com/certificate/UC-c9daa298-f701-498c-9371-587ab32b74a2/">
+  <img src="https://img.shields.io/badge/Verify-Certificate-FFD700?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/star.png" width="80"/>
-<h3>⭐ Add Your Certification 4</h3>
-<p><strong>Provider:</strong> Institution Name</p>
-<p><strong>Year:</strong> 2023</p>
-<a href="YOUR_CERTIFICATE_LINK_4">
-  <img src="https://img.shields.io/badge/Verify-Certificate-90EE90?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/language.png" width="80"/>
+<h3>🧮 Computational Theory: Language Principle & Finite Automata</h3>
+<p><strong>Skillsoft</strong></p>
+<p>📅 Issued: Aug 2025</p>
+<p>🆔 Credential ID: 4290197f-27a1-4b3c-9502-3eeaf7f98c34</p>
+<p><strong>Skills:</strong> Computational Theory, Automata, Language Principles</p>
+<a href="https://skillsoft.digitalbadges.skillsoft.com/4290197f-27a1-4b3c-9502-3eeaf7f98c34">
+  <img src="https://img.shields.io/badge/Verify-Certificate-90EE90?style=for-the-badge&logo=acclaim&logoColor=white" />
 </a>
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/achievement.png" width="80"/>
-<h3>🎖️ Add Your Certification 5</h3>
-<p><strong>Provider:</strong> Institution Name</p>
-<p><strong>Year:</strong> 2023</p>
-<a href="YOUR_CERTIFICATE_LINK_5">
-  <img src="https://img.shields.io/badge/Verify-Certificate-FFA07A?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="80"/>
+<h3>🤖 Master Generative AI & AI Tools (ChatGPT & more)</h3>
+<p><strong>Udemy</strong></p>
+<p>📅 Issued: Aug 2025</p>
+<p>🆔 Credential ID: UC-750045b7-92d3-4e16-b21f-5d284d287a65</p>
+<p><strong>Skills:</strong> Generative AI, ChatGPT, AI Tools Mastery</p>
+<a href="https://www.udemy.com/certificate/UC-750045b7-92d3-4e16-b21f-5d284d287a65/">
+  <img src="https://img.shields.io/badge/Verify-Certificate-FFA07A?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/badge.png" width="80"/>
-<h3>🎯 Add Your Certification 6</h3>
-<p><strong>Provider:</strong> Institution Name</p>
-<p><strong>Year:</strong> 2023</p>
-<a href="YOUR_CERTIFICATE_LINK_6">
-  <img src="https://img.shields.io/badge/Verify-Certificate-DDA0DD?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.icons8.com/fluency/96/000000/developer.png" width="80"/>
+<h3>⚡ ChatGPT Prompt Engineering for Developers</h3>
+<p><strong>DeepLearning.AI</strong></p>
+<p>📅 Issued: Jul 2025</p>
+<p><strong>Skills:</strong> Prompt Engineering, Developer Tools, Advanced ChatGPT Usage</p>
+<a href="https://learn.deeplearning.ai/accomplishments/YOUR_CERT_ID">
+  <img src="https://img.shields.io/badge/Verify-Certificate-DDA0DD?style=for-the-badge&logo=deeplearning&logoColor=white" />
 </a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/data-analytics.png" width="80"/>
+<h3>📊 Tata - GenAI Powered Data Analytics Job Simulation</h3>
+<p><strong>Forage</strong></p>
+<p>📅 Issued: Jun 2025</p>
+<p><strong>Skills:</strong> AI Analytics, Data Strategy, Business Communication, Data Interpretation, Model Selection, Strategic Analytics</p>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YOUR_CERT_ID.pdf">
+  <img src="https://img.shields.io/badge/Verify-Certificate-87CEEB?style=for-the-badge&logo=databricks&logoColor=white" />
+</a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80"/>
+<h3>🧠 Artificial Intelligence: Types of Artificial Intelligence</h3>
+<p><strong>Skillsoft</strong></p>
+<p>📅 Issued: Jul 2024</p>
+<p><strong>Skills:</strong> AI Fundamentals, AI Types, AI Classification</p>
+<a href="https://skillsoft.digitalbadges.skillsoft.com/YOUR_BADGE_ID">
+  <img src="https://img.shields.io/badge/Verify-Certificate-FF69B4?style=for-the-badge&logo=acclaim&logoColor=white" />
+</a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/google.png" width="80"/>
+<h3>🎓 Introduction to Generative AI</h3>
+<p><strong>Google Cloud Skills Boost</strong></p>
+<p>📅 Issued: Jul 2024</p>
+<p><strong>Skills:</strong> Generative AI Basics, Google Cloud, AI Fundamentals</p>
+<a href="https://www.cloudskillsboost.google/public_profiles/YOUR_PROFILE_ID">
+  <img src="https://img.shields.io/badge/Verify-Certificate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/ethics.png" width="80"/>
+<h3>🛡️ Introduction to Responsible AI</h3>
+<p><strong>Google Cloud Skills Boost</strong></p>
+<p>📅 Issued: Jul 2024</p>
+<p><strong>Skills:</strong> Responsible AI, AI Ethics, Fairness in AI</p>
+<a href="https://www.cloudskillsboost.google/public_profiles/YOUR_PROFILE_ID">
+  <img src="https://img.shields.io/badge/Verify-Certificate-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</a>
+</td>
+<td colspan="2" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </td>
 </tr>
 </table>
