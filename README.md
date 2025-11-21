@@ -22,39 +22,32 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ### 👩‍💻 **About Me**
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Sakshi Verma"
-        self.education = "CSE @ Lovely Professional University"
-        self.role = "AI & Data Engineering Specialist"
-        self.location = "India 🇮🇳"
-        
-        self.passions = [
-            "Machine Learning 🤖",
-            "Smart Data Systems 📊", 
-            "Automation & Deep Learning 🧬",
-            "Cloud Computing ☁️",
-            "Open Source Contribution 🌟"
-        ]
-        
-        self.currently_learning = [
-            "Advanced ML Algorithms",
-            "Big Data Technologies",
-            "Generative AI & LLMs",
-            "Cloud Architecture"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing!")
+🎓 **Education:** CSE @ Lovely Professional University  
+💼 **Role:** AI & Data Engineering Specialist  
+🌍 **Location:** India 🇮🇳  
 
-me = DataEngineer()
-me.say_hi()
-```
+💡 **What I Love:**
+- 🤖 Machine Learning & AI
+- 📊 Smart Data Systems & Analytics
+- 🧬 Automation & Deep Learning
+- ☁️ Cloud Computing & Big Data
+- 🌟 Open Source Contribution
+
+🚀 **Currently Learning:**
+- Advanced ML Algorithms
+- Big Data Technologies
+- Generative AI & LLMs
+- Cloud Architecture (AWS)
+
+✨ **Fun Facts:**
+- ☕ Coffee-powered coder
+- 🎯 Always chasing ML breakthroughs
+- 📚 If I don't know it, I'll learn it!
+- 🤝 Open source enthusiast
 
 <br clear="right"/>
 
@@ -143,7 +136,7 @@ me.say_hi()
 
 ---
 
-## 📊 **Skills Proficiency Chart**
+## 📊 **Skills Proficiency**
 
 <div align="center">
 
@@ -153,43 +146,94 @@ me.say_hi()
 
 ---
 
-## 🏆 **Open Source Contributions**
+## 🎓 **Certifications & Achievements**
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="80"/>
+<h3>📜 Add Your Certification 1</h3>
+<p><strong>Provider:</strong> Institution Name</p>
+<p><strong>Year:</strong> 2024</p>
+<a href="YOUR_CERTIFICATE_LINK_1">
+  <img src="https://img.shields.io/badge/Verify-Certificate-FF6EC7?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+</td>
 
-### 🌟 **Active Contributor**
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="80"/>
+<h3>🏆 Add Your Certification 2</h3>
+<p><strong>Provider:</strong> Institution Name</p>
+<p><strong>Year:</strong> 2024</p>
+<a href="YOUR_CERTIFICATE_LINK_2">
+  <img src="https://img.shields.io/badge/Verify-Certificate-00D9FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/medal.png" width="80"/>
+<h3>🥇 Add Your Certification 3</h3>
+<p><strong>Provider:</strong> Institution Name</p>
+<p><strong>Year:</strong> 2024</p>
+<a href="YOUR_CERTIFICATE_LINK_3">
+  <img src="https://img.shields.io/badge/Verify-Certificate-FFD700?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/star.png" width="80"/>
+<h3>⭐ Add Your Certification 4</h3>
+<p><strong>Provider:</strong> Institution Name</p>
+<p><strong>Year:</strong> 2023</p>
+<a href="YOUR_CERTIFICATE_LINK_4">
+  <img src="https://img.shields.io/badge/Verify-Certificate-90EE90?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/achievement.png" width="80"/>
+<h3>🎖️ Add Your Certification 5</h3>
+<p><strong>Provider:</strong> Institution Name</p>
+<p><strong>Year:</strong> 2023</p>
+<a href="YOUR_CERTIFICATE_LINK_5">
+  <img src="https://img.shields.io/badge/Verify-Certificate-FFA07A?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/badge.png" width="80"/>
+<h3>🎯 Add Your Certification 6</h3>
+<p><strong>Provider:</strong> Institution Name</p>
+<p><strong>Year:</strong> 2023</p>
+<a href="YOUR_CERTIFICATE_LINK_6">
+  <img src="https://img.shields.io/badge/Verify-Certificate-DDA0DD?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
+</div>
+
+---
+
+## 🏆 **Open Source Contributions**
+
+<div align="center">
 
 <a href="https://github.com/MehtabSingh3711/BlogApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehtabSingh3711&repo=BlogApp&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF" />
 </a>
 
-**BlogApp Project**  
-Contributing to building modern blog applications with enhanced features
+### 🌟 **Active Open Source Contributor**
 
-</td>
-<td align="center" width="50%">
-
-### 🎯 **Contribution Stats**
-
-```yaml
-Total Contributions: Growing
-Active Repositories: Multiple
-Focus Areas:
-  - AI/ML Projects
-  - Data Engineering
-  - Web Development
-  - Automation Tools
-  
-Status: Open to Collaborate! 🤝
-```
-
-</td>
-</tr>
-</table>
+Contributing to building modern applications and helping the developer community grow!  
+**Focus Areas:** AI/ML Projects • Data Engineering • Web Development • Automation
 
 </div>
 
@@ -216,32 +260,6 @@ Status: Open to Collaborate! 🤝
 ### 🏆 **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SAK-SHI14&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎓 **Education & Learning Path**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 CSE @ LPU] --> B[AI & ML Specialization]
-    A --> C[Data Engineering]
-    B --> D[Generative AI]
-    B --> E[Deep Learning]
-    C --> F[Big Data]
-    C --> G[Cloud Computing]
-    
-    style A fill:#FF6EC7,stroke:#FF1493,color:#FFF
-    style B fill:#00D9FF,stroke:#0099CC,color:#000
-    style C fill:#FFD700,stroke:#FFA500,color:#000
-    style D fill:#90EE90,stroke:#32CD32,color:#000
-    style E fill:#DDA0DD,stroke:#BA55D3,color:#000
-    style F fill:#FFA07A,stroke:#FF6347,color:#000
-    style G fill:#87CEEB,stroke:#4682B4,color:#000
-```
 
 </div>
 
@@ -300,14 +318,14 @@ graph LR
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
-<div align="center">
+<br><br>
 
 ### 💬 **Let's Collaborate!**
 
 I'm always interested in working on exciting projects in AI, ML, and Data Engineering.  
 Feel free to reach out for collaborations, discussions, or just to say hi! 👋
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -317,16 +335,15 @@ Feel free to reach out for collaborations, discussions, or just to say hi! 👋
 
 ### 💭 **My Philosophy**
 
-```python
-while alive:
-    learn_new_skills()
-    build_amazing_projects()
-    contribute_to_community()
-    inspire_others()
-    never_stop_growing()
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Code+what+you+imagine+%F0%9F%92%BB;Learn+what+you+don't+know+%F0%9F%93%9A;Build+what+matters+%F0%9F%9A%80;Repeat+and+grow+%F0%9F%8C%B1;Never+stop+evolving+%E2%9C%A8" alt="Philosophy" />
 
-### ⚡ **Fun Facts**
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
+<br><br>
+
+### ⚡ **Quick Facts**
 
 🎯 Always chasing the next ML breakthrough  
 ☕ Fueled by coffee and curiosity  
@@ -336,12 +353,8 @@ while alive:
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20what%20you%20imagine.%20Learn%20what%20you%20don't%20know.%20Repeat.&author=Sakshi%20Verma" />
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=100&section=footer" />
 
-**⭐ Thanks for visiting! Don't forget to check out my repositories and drop a star if you find something interesting! ⭐**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=5000&color=F76EEC&center=true&vCenter=true&width=800&lines=%E2%AD%90+Thanks+for+visiting!+Drop+a+star+if+you+find+something+interesting!+%E2%AD%90" alt="Thanks" />
 
 </div>
