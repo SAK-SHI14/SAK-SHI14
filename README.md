@@ -4,23 +4,21 @@
 
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F76EEC&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineering+Specialist+%F0%9F%A4%96;Building+Intelligent+Data+Systems+%F0%9F%93%8A;CSE+%40+LPU+%7C+Open+Source+Contributor+%F0%9F%8C%9F;Python+%7C+ML+%7C+Cloud+%7C+Big+Data+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F76EEC&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Sakshi+%F0%9F%91%8B;AI+%26+Data+Engineering+Specialist;Building+Intelligent+Data+Systems;CSE+%40+LPU+%7C+Open+Source+Contributor;Python+%7C+ML+%7C+Cloud+%7C+Big+Data" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Engineering-FF6EC7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-138808?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-138808?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-00D9FF?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAK-SHI14&label=Profile%20Views&color=FF6EC7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/followers/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github" />
+  <img src="https://img.shields.io/github/stars/SAK-SHI14?style=for-the-badge&color=FF6EC7&logo=github" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -28,28 +26,35 @@
 
 ### 👩‍💻 **About Me**
 
-🎓 **Education:** CSE @ Lovely Professional University  
-💼 **Role:** AI & Data Engineering Specialist  
-🌍 **Location:** India 🇮🇳  
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Sakshi Verma"
+        self.education = "CSE @ Lovely Professional University"
+        self.role = "AI & Data Engineering Specialist"
+        self.location = "India 🇮🇳"
+        
+        self.passions = [
+            "Machine Learning 🤖",
+            "Smart Data Systems 📊", 
+            "Automation & Deep Learning 🧬",
+            "Cloud Computing ☁️",
+            "Open Source Contribution 🌟"
+        ]
+        
+        self.currently_learning = [
+            "Advanced ML Algorithms",
+            "Big Data Technologies",
+            "Generative AI & LLMs",
+            "Cloud Architecture"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing!")
 
-💡 **What I Love:**
-- 🤖 Machine Learning & AI
-- 📊 Smart Data Systems & Analytics
-- 🧬 Automation & Deep Learning
-- ☁️ Cloud Computing & Big Data
-- 🌟 Open Source Contribution
-
-🚀 **Currently Learning:**
-- Advanced ML Algorithms
-- Big Data Technologies
-- Generative AI & LLMs
-- Cloud Architecture (AWS)
-
-✨ **Fun Facts:**
-- ☕ Coffee-powered coder
-- 🎯 Always chasing ML breakthroughs
-- 📚 If I don't know it, I'll learn it!
-- 🤝 Open source enthusiast
+me = DataEngineer()
+me.say_hi()
+```
 
 <br clear="right"/>
 
@@ -138,7 +143,7 @@
 
 ---
 
-## 📊 **Skills Proficiency**
+## 📊 **Skills Proficiency Chart**
 
 <div align="center">
 
@@ -148,147 +153,43 @@
 
 ---
 
-## 🎓 **Certifications & Achievements**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" alt="Fire">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/google-cloud.png" width="80"/>
-<h3>🎯 Generative AI Professional</h3>
-<p><strong>Oracle</strong></p>
-<p>🆔 Credential ID: OC7532516</p>
-<p><strong>Skills:</strong> LLMs, Generative AI, RAG Chatbot Development, OCI Service</p>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=5C4F8BC52ED99C0BF053E2BC6D0A1F9CEE4B6A5DB2F0A77E7EDD68E5D34C8E5B">
-  <img src="https://img.shields.io/badge/Verify-Certificate-FF6EC7?style=for-the-badge&logo=oracle&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
-<h3>🚀 Build Generative AI Apps with No-Code Tools</h3>
-<p><strong>Udemy</strong></p>
-<p><strong>Skills:</strong> No-Code Development, AI App Building, Practical AI Implementation</p>
-<a href="https://www.udemy.com/certificate/UC-c9daa298-f701-498c-9371-587ab32b74a2/">
-  <img src="https://img.shields.io/badge/Verify-Certificate-00D9FF?style=for-the-badge&logo=udemy&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/chatgpt.png" width="80"/>
-<h3>💬 ChatGPT Made Easy: AI Essentials for Beginners</h3>
-<p><strong>Udemy</strong></p>
-<p>🆔 Credential ID: UC-c9daa298-f701-498c-9371-587ab32b74a2</p>
-<p><strong>Skills:</strong> ChatGPT, Prompt Engineering, AI Tools</p>
-<a href="https://www.udemy.com/certificate/UC-c9daa298-f701-498c-9371-587ab32b74a2/">
-  <img src="https://img.shields.io/badge/Verify-Certificate-FFD700?style=for-the-badge&logo=udemy&logoColor=white" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/language.png" width="80"/>
-<h3>🧮 Computational Theory: Language Principle & Finite Automata</h3>
-<p><strong>Skillsoft</strong></p>
-<p>🆔 Credential ID: 4290197f-27a1-4b3c-9502-3eeaf7f98c34</p>
-<p><strong>Skills:</strong> Computational Theory, Automata, Language Principles</p>
-<a href="https://skillsoft.digitalbadges.skillsoft.com/4290197f-27a1-4b3c-9502-3eeaf7f98c34">
-  <img src="https://img.shields.io/badge/Verify-Certificate-90EE90?style=for-the-badge&logo=acclaim&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="80"/>
-<h3>🤖 Master Generative AI & AI Tools (ChatGPT & more)</h3>
-<p><strong>Udemy</strong></p>
-<p>🆔 Credential ID: UC-750045b7-92d3-4e16-b21f-5d284d287a65</p>
-<p><strong>Skills:</strong> Generative AI, ChatGPT, AI Tools Mastery</p>
-<a href="https://www.udemy.com/certificate/UC-750045b7-92d3-4e16-b21f-5d284d287a65/">
-  <img src="https://img.shields.io/badge/Verify-Certificate-FFA07A?style=for-the-badge&logo=udemy&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/developer.png" width="80"/>
-<h3>⚡ ChatGPT Prompt Engineering for Developers</h3>
-<p><strong>DeepLearning.AI</strong></p>
-<p><strong>Skills:</strong> Prompt Engineering, Developer Tools, Advanced ChatGPT Usage</p>
-<a href="https://learn.deeplearning.ai/accomplishments/YOUR_CERT_ID">
-  <img src="https://img.shields.io/badge/Verify-Certificate-DDA0DD?style=for-the-badge&logo=deeplearning&logoColor=white" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/data-analytics.png" width="80"/>
-<h3>📊 Tata - GenAI Powered Data Analytics Job Simulation</h3>
-<p><strong>Forage</strong></p>
-<p><strong>Skills:</strong> AI Analytics, Data Strategy, Business Communication, Data Interpretation, Model Selection, Strategic Analytics</p>
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/YOUR_CERT_ID.pdf">
-  <img src="https://img.shields.io/badge/Verify-Certificate-87CEEB?style=for-the-badge&logo=databricks&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80"/>
-<h3>🧠 Artificial Intelligence: Types of Artificial Intelligence</h3>
-<p><strong>Skillsoft</strong></p>
-<p><strong>Skills:</strong> AI Fundamentals, AI Types, AI Classification</p>
-<a href="https://skillsoft.digitalbadges.skillsoft.com/YOUR_BADGE_ID">
-  <img src="https://img.shields.io/badge/Verify-Certificate-FF69B4?style=for-the-badge&logo=acclaim&logoColor=white" />
-</a>
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/google.png" width="80"/>
-<h3>🎓 Introduction to Generative AI</h3>
-<p><strong>Google Cloud Skills Boost</strong></p>
-<p><strong>Skills:</strong> Generative AI Basics, Google Cloud, AI Fundamentals</p>
-<a href="https://www.cloudskillsboost.google/public_profiles/YOUR_PROFILE_ID">
-  <img src="https://img.shields.io/badge/Verify-Certificate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/ethics.png" width="80"/>
-<h3>🛡️ Introduction to Responsible AI</h3>
-<p><strong>Google Cloud Skills Boost</strong></p>
-<p><strong>Skills:</strong> Responsible AI, AI Ethics, Fairness in AI</p>
-<a href="https://www.cloudskillsboost.google/public_profiles/YOUR_PROFILE_ID">
-  <img src="https://img.shields.io/badge/Verify-Certificate-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</a>
-</td>
-<td colspan="2" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" alt="Fire">
-
-</div>
-
----
-
 ## 🏆 **Open Source Contributions**
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌟 **Active Contributor**
 
 <a href="https://github.com/MehtabSingh3711/BlogApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MehtabSingh3711&repo=BlogApp&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF" />
 </a>
 
-### 🌟 **Active Open Source Contributor**
+**BlogApp Project**  
+Contributing to building modern blog applications with enhanced features
 
-Contributing to building modern applications and helping the developer community grow!  
-**Focus Areas:** AI/ML Projects • Data Engineering • Web Development • Automation
+</td>
+<td align="center" width="50%">
+
+### 🎯 **Contribution Stats**
+
+```yaml
+Total Contributions: Growing
+Active Repositories: Multiple
+Focus Areas:
+  - AI/ML Projects
+  - Data Engineering
+  - Web Development
+  - Automation Tools
+  
+Status: Open to Collaborate! 🤝
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -315,6 +216,32 @@ Contributing to building modern applications and helping the developer community
 ### 🏆 **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SAK-SHI14&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎓 **Education & Learning Path**
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 CSE @ LPU] --> B[AI & ML Specialization]
+    A --> C[Data Engineering]
+    B --> D[Generative AI]
+    B --> E[Deep Learning]
+    C --> F[Big Data]
+    C --> G[Cloud Computing]
+    
+    style A fill:#FF6EC7,stroke:#FF1493,color:#FFF
+    style B fill:#00D9FF,stroke:#0099CC,color:#000
+    style C fill:#FFD700,stroke:#FFA500,color:#000
+    style D fill:#90EE90,stroke:#32CD32,color:#000
+    style E fill:#DDA0DD,stroke:#BA55D3,color:#000
+    style F fill:#FFA07A,stroke:#FF6347,color:#000
+    style G fill:#87CEEB,stroke:#4682B4,color:#000
+```
 
 </div>
 
@@ -373,14 +300,14 @@ Contributing to building modern applications and helping the developer community
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+</div>
+
+<div align="center">
 
 ### 💬 **Let's Collaborate!**
 
 I'm always interested in working on exciting projects in AI, ML, and Data Engineering.  
 Feel free to reach out for collaborations, discussions, or just to say hi! 👋
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -390,15 +317,16 @@ Feel free to reach out for collaborations, discussions, or just to say hi! 👋
 
 ### 💭 **My Philosophy**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Code+what+you+imagine+%F0%9F%92%BB;Learn+what+you+don't+know+%F0%9F%93%9A;Build+what+matters+%F0%9F%9A%80;Repeat+and+grow+%F0%9F%8C%B1;Never+stop+evolving+%E2%9C%A8" alt="Philosophy" />
+```python
+while alive:
+    learn_new_skills()
+    build_amazing_projects()
+    contribute_to_community()
+    inspire_others()
+    never_stop_growing()
+```
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-
-<br><br>
-
-### ⚡ **Quick Facts**
+### ⚡ **Fun Facts**
 
 🎯 Always chasing the next ML breakthrough  
 ☕ Fueled by coffee and curiosity  
@@ -408,6 +336,12 @@ Feel free to reach out for collaborations, discussions, or just to say hi! 👋
 
 ---
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20what%20you%20imagine.%20Learn%20what%20you%20don't%20know.%20Repeat.&author=Sakshi%20Verma" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=100&section=footer" />
+
+**⭐ Thanks for visiting! Don't forget to check out my repositories and drop a star if you find something interesting! ⭐**
 
 </div>
