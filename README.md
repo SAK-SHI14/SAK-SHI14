@@ -37,7 +37,7 @@ const sakshi = {
     },
     
     currentMission: [
-        "🔥 Mastering LLMs & RAG Systems",
+        "🔥 Mastering Generative AI & RAG Systems",
         "☁️ Scaling ML on Cloud Platforms",
         "📊 Building Real-Time Data Pipelines",
         "🤖 Creating AI that Actually Works"
@@ -63,59 +63,8 @@ console.log("Welcome to my digital playground! 🎮");
 ---
 
 <div align="center">
-
-## 🎮 **PLAY A GAME!**
-
-### 🎯 Click Counter Challenge
-**Can you reach 100 clicks in 10 seconds?**
-
-<details>
-<summary><b>🕹️ CLICK HERE TO PLAY!</b></summary>
-
-<br>
-
-```
-🎮 MINI GAME CONCEPT 🎮
-
-Click the emoji as many times as you can!
-
-🎯 TARGET: 100 clicks in 10 seconds
-⏱️ BEST SCORE: ???
-
-[Since GitHub doesn't support interactive JS,
-here's an ASCII adventure instead!]
-
-╔════════════════════════════════════════╗
-║     EMOJI MAZE ADVENTURE 🗺️            ║
-╠════════════════════════════════════════╣
-║                                        ║
-║  START 🚀 → 🌟 → 💎 → 🏆 → 🎉 END     ║
-║              ↓    ↓    ↓              ║
-║            ⚠️    🔥    ❌              ║
-║                                        ║
-║  Choose your path wisely!              ║
-║  🌟 = +10 points                       ║
-║  💎 = +50 points                       ║
-║  🏆 = +100 points (WIN!)              ║
-║  ⚠️ = -20 points                       ║
-║  🔥 = -50 points                       ║
-║  ❌ = Game Over                        ║
-║                                        ║
-╚════════════════════════════════════════╝
-
-🎲 Imagine you clicked: 🚀 → 🌟 → 💎 → 🏆 → 🎉
-🎊 CONGRATULATIONS! You scored 160 points! 🎊
-```
-
-**Want to play more? Build your own mini-game with my skills!** 💪
-
-</details>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
----
 
 ## ⚡ **MY SUPERPOWERS**
 
@@ -135,10 +84,9 @@ here's an ASCII adventure instead!]
 <br>
 
 - 🧠 **Deep Learning** - Neural Networks, CNNs, RNNs
-- 💬 **NLP & LLMs** - GPT, BERT, Transformers
-- 🎨 **Generative AI** - Stable Diffusion, RAG Systems
+- 🎨 **Generative AI** - RAG Systems
 - 🎯 **ML Algorithms** - Supervised, Unsupervised, RL
-- 🔧 **Frameworks** - TensorFlow, PyTorch, Scikit-learn
+- 🔧 **Frameworks** - TensorFlow, Scikit-learn
 - ✨ **Prompt Engineering** - Advanced AI interactions
 
 </details>
@@ -155,12 +103,12 @@ here's an ASCII adventure instead!]
 <summary><b>🔥 Core Skills</b></summary>
 <br>
 
-- 🌊 **Big Data** - Spark, Hadoop, Kafka
-- 🔄 **ETL Pipelines** - Airflow, dbt, Databricks
-- 📈 **Data Viz** - Power BI, Tableau, Plotly
-- 🗄️ **Databases** - PostgreSQL, MongoDB, Redis
-- ☁️ **Cloud Platforms** - AWS, Azure, GCP
-- 🔍 **Data Analysis** - Pandas, NumPy, SQL
+- 🌊 **Big Data** - Spark, Hadoop
+- 📈 **Data Viz** - Power BI
+- 📊 **Data Analysis** - Pandas, NumPy
+- 📉 **Visualization** - Matplotlib, Seaborn
+- ☁️ **Cloud Platforms** - AWS, Azure
+- 🗄️ **Databases** - MongoDB, MySQL
 
 </details>
 
@@ -171,7 +119,7 @@ here's an ASCII adventure instead!]
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 </div>
 
 ---
@@ -190,31 +138,26 @@ here's an ASCII adventure instead!]
 
 ### **🤖 AI/ML Powerhouse**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **📊 Data Engineering Stack**
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### **☁️ Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### **🗄️ Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
@@ -451,7 +394,7 @@ Contributing to building scalable web applications with enhanced features
 
 ### 📚 **LEARNING**
 
-🔥 Advanced LLM Architectures  
+🔥 Advanced ML Architectures  
 ⚡ MLOps at Scale  
 ☁️ Cloud-Native AI Solutions  
 🚀 Real-Time Data Streaming  
@@ -502,14 +445,8 @@ Contributing to building scalable web applications with enhanced features
 <a href="https://www.linkedin.com/in/sakshi-verma-841045285">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="mailto:sakshiverma0514@gmail.com">
+<a href="mailto:vermasakshi0514@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
-</a>
-<a href="https://github.com/SAK-SHI14">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 <br><br>
@@ -523,106 +460,6 @@ Or just want to chat about tech and coffee? ☕
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-</div>
-
----
-
-## 🎮 **INTERACTIVE VISITOR GAME**
-
-<div align="center">
-
-### 🎲 **GUESS THE OUTPUT CHALLENGE!**
-
-<details>
-<summary><b>🧩 Click to Play the Python Challenge!</b></summary>
-
-<br>
-
-```python
-# 🎯 Can you guess the output?
-
-def mystery_function(n):
-    if n <= 1:
-        return n
-    return mystery_function(n-1) + mystery_function(n-2)
-
-result = mystery_function(7)
-print(f"The answer is: {result}")
-
-# What will be printed?
-# A) 13
-# B) 21
-# C) 34
-# D) 8
-
-# Scroll down for the answer...
-#
-#
-#
-#
-#
-#
-#
-#
-# ✅ ANSWER: A) 13
-# 
-# This is the Fibonacci sequence!
-# mystery_function(7) = 13
-# 
-# 🎊 Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21...
-#
-# Did you get it right? 🎉
-```
-
-<br>
-
-**🏆 BONUS CHALLENGE:**
-
-```
-╔═══════════════════════════════════════════════╗
-║         🎯 CODE PATTERN PUZZLE 🎯            ║
-╠═══════════════════════════════════════════════╣
-║                                               ║
-║  What comes next in this sequence?            ║
-║                                               ║
-║  2, 4, 8, 16, 32, _?_                        ║
-║                                               ║
-║  Options:                                     ║
-║  A) 48                                        ║
-║  B) 64                                        ║
-║  C) 128                                       ║
-║  D) 62                                        ║
-║                                               ║
-║  Think like a programmer! 💻                 ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
-
-Answer: B) 64 (Powers of 2: 2^1, 2^2, 2^3, 2^4, 2^5, 2^6)
-```
-
-<br>
-
-**🎨 ASCII ART GENERATOR**
-
-```
-     🎨 YOUR NAME IN ASCII ART 🎨
-
-  ____    _    _  __ ____  _   _ ___ 
- / ___|  / \  | |/ // ___|| | | |_ _|
- \___ \ / _ \ | ' / \___ \| |_| || | 
-  ___) / ___ \| . \  ___) |  _  || | 
- |____/_/   \_\_|\_\|____/|_| |_|___|
-
-      Now create YOUR name in ASCII! 
-      Use: https://patorjk.com/software/taag/
-```
-
-</details>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600">
 </div>
 
 ---
@@ -668,7 +505,13 @@ me.daily_routine()
 
 ---
 
-## ⚡ **QUICK FACTS ABOUT ME**
+## ⚡ **QUICK
+<function_calls>
+<invoke name="artifacts">
+<parameter name="command">update</parameter>
+<parameter name="id">sakshi_final_perfect_readme</parameter>
+<parameter name="old_str">## ⚡ **QUICK</parameter>
+<parameter name="new_str">## ⚡ **QUICK FACTS ABOUT ME**
 
 <div align="center">
 
@@ -681,11 +524,9 @@ me.daily_routine()
   - 💻 Lines of Code Written: 100,000+
   - ☕ Coffee Consumed: Infinite
   - 🐛 Bugs Fixed: Too many to count
-  - 💡 Projects Built: 50+
+  - 💡 Projects Built: 5+
   - 🌙 Late Night Coding: Every night
-  - 🎵 Coding Music: Lo-fi Hip Hop
   - 🍕 Favorite Debug Food: Pizza
-  - 🦄 Dream: Build AGI
 ```
 
 </td>
@@ -700,7 +541,6 @@ me.daily_routine()
   - 📊 Data Visualization Magic
   - 🎨 Generative AI Art
   - ⚡ Performance Optimization
-  - 🔐 AI Security & Ethics
 ```
 
 </td>
@@ -736,56 +576,19 @@ me.daily_routine()
 
 ---
 
-## 📈 **WEEKLY CODING STATS**
+## 🦖 **CONTRIBUTION ACTIVITY**
 
 <div align="center">
 
-```text
-🗓️  Week: Nov 18 - Nov 24, 2025
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-Python       ████████████████████░   95%  🔥
-SQL          ████████████░░░░░░░░░   60%  💪
-JavaScript   ██████████░░░░░░░░░░░   50%  ⚡
-YAML         ████████░░░░░░░░░░░░░   40%  🛠️
-Markdown     ██████░░░░░░░░░░░░░░░   30%  📝
-
-Total Coding Time: 42 hours ⏰
-Best Day: Monday (10 hours) 🎯
-Most Used Tool: VS Code 💻
-Favorite Beverage: Coffee ☕
-```
+<em>Watch the dinosaur eat my contributions! 🦕</em>
 
 </div>
 
 ---
 
-## 🌈 **CONTRIBUTION SNAKE**
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAK-SHI14/SAK-SHI14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAK-SHI14/SAK-SHI14/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SAK-SHI14/SAK-SHI14/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💝 **SUPPORT MY WORK**
-
-<div align="center">
-
-If you like my work and want to support me:
-
-⭐ Star my repositories  
-🔗 Share my projects  
-💬 Provide feedback  
-🤝 Collaborate on projects  
-☕ Buy me a coffee (Coming soon!)
-
-**Every contribution motivates me to create more!** 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 
@@ -793,9 +596,9 @@ If you like my work and want to support me:
 
 ---
 
-<div align="center">
+## 🎨 **PROFILE STATS SUMMARY**
 
-### 🎯 **PROFILE STATS SUMMARY**
+<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAK-SHI14&theme=radical)
 
@@ -803,13 +606,11 @@ If you like my work and want to support me:
 
 ---
 
+## 🔢 **VISITOR COUNTER**
+
 <div align="center">
 
-## 🎨 **VISITORS COUNTER**
-
-<img src="https://profile-counter.glitch.me/SAK-SHI14/count.svg" alt="Visitor Count" />
-
-**You are visitor number:** ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SAK-SHI14.SAK-SHI14)
+<img src="https://count.getloli.com/get/@SAK-SHI14?theme=rule34" alt="Visitor Count" />
 
 </div>
 
@@ -819,14 +620,14 @@ If you like my work and want to support me:
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="700">
 
-### 🌟 **"The best way to predict the future is to invent it."** 🌟
+### ✨ **"The best way to predict the future is to invent it."** ⭐
 
 **— Alan Kay**
 
 <br>
 
-### 💖 **Thanks for stopping by! Let's build the future together!** 💖
+### ✨ **Thanks for stopping by! Let's build the future together!** ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling" />
 
-</div>
+</div></parameter>
